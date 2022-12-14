@@ -1,5 +1,6 @@
-# CSGSI
-A simple C# library to interface with Counter-Strike: Global Offensive *Game State Integration*
+# CSGSI.NET
+A simple C# library to interface with Counter-Strike: Global Offensive *Game State Integration*  
+**For .Net 6.0**
 
 ## Table of Contents  
 [What is Game State Integration](#what-is-game-state-integration)  
